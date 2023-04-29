@@ -1,0 +1,11 @@
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\bin\Debug\AAI Texture Redrawer.exe.config
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\bin\Debug\AAI Texture Redrawer.exe
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\bin\Debug\AAI Texture Redrawer.pdb
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\obj\Debug\AAI Texture Redrawer.csproj.AssemblyReference.cache
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\obj\Debug\AAI_Texture_Redrawer.Form1.resources
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\obj\Debug\AAI_Texture_Redrawer.Properties.Resources.resources
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\obj\Debug\AAI Texture Redrawer.csproj.GenerateResource.cache
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\obj\Debug\AAI Texture Redrawer.csproj.CoreCompileInputs.cache
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\obj\Debug\AAI Texture Redrawer.exe
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\obj\Debug\AAI Texture Redrawer.pdb
+C:\Users\userpc\source\repos\AAI Texture Redrawer\AAI Texture Redrawer\obj\Debug\AAI_Texture_Redrawer.Form2.resources
